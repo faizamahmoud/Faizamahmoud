@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 I’m currently giving my projects some love <br>🌱 I’m currently learning data structures and algorithms<br>👯 I’m looking to collaborate on Github ;<br>💬 Ask me about anything, I am happy to help;<br>⚡️ Fun-Fact: I have a lot of fun facts;<br>📫 How to reach me: faiza.mahmoud@gmail.com;<br>📝Resume<br>
+👨🏽‍💻 I’m currently giving my projects some love <br>🌱 I’m currently learning data structures and algorithms<br>👯 I’m looking to collaborate on Github ;<br>💬 Ask me about anything, I am happy to help;<br>⚡️ Fun-Fact: I have a lot of fun facts;<br>📫 How to reach me: faiza.mahmoud@gmail.com;<br>
 
 
 ## 🌐 Socials:
